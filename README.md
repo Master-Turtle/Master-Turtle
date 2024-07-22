@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Beschreibung des Bildes](./hexa2.png)
+![Beschreibung des Bildes](./Bilder/hexa2.png)
 
 <!--
 **Master-Turtle/Master-Turtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
